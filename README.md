@@ -30,7 +30,7 @@ Divirta-se jogando e compartilhe o jogo com seus amigos!
 ## Acesse o Jogo
 Você também pode acessar o Jogo do Número Secreto diretamente em seu navegador, sem a necessidade de executá-lo localmente. O jogo está hospedado no Vercel e pode ser acessado através do seguinte link:
 
-[Jogo do Número Secreto](https://jogo.vercel.app/)
+[Jogo do Número Secreto]([https://jogo.vercel.app/](https://alura-one-jogo-numerosecreto.vercel.app/))
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
